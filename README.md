@@ -19,13 +19,6 @@ This machine learning course covers a comprehensive range of topics, including b
    git clone https://github.com/username/ml-course-dr-malek.git
    ```
 
-2. Explore the content in the various directories, such as `lectures`, `assignments`, and `code`.
-
-3. For code examples, make sure you have the required dependencies installed. You may use a virtual environment to manage dependencies.
-
-4. Check each directory for information on course assignments and project details.
-
-## License
-This repository is provided under the [MIT License](LICENSE). Feel free to use and modify the content for educational purposes.
+2. Check each directory for information on course assignments and project details.
 
 Best of luck with your Machine Learning journey!
