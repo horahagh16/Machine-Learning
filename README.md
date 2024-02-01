@@ -13,12 +13,6 @@ This machine learning course covers a comprehensive range of topics, including b
 - **Evaluation and Metrics**: Model assessment, validation, and performance metrics.
 - 
 ## Getting Started
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/username/ml-course-dr-malek.git
-   ```
-
-2. Check each directory for information on course assignments and project details.
+Check each directory for information on course assignments and project details.
 
 Best of luck with your Machine Learning journey!
